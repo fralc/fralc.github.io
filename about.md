@@ -10,7 +10,7 @@ layout: default
     <br><br>
     In order to link such background with data analysis and technology interests I switched my job activity to data science.
     <br><br>
-    In my opinion blending geosciences and technolgoy competences is one of the keys for dealing with innovation challenges 
+    In my opinion, blending geosciences and technolgoy competences is one of the keys for dealing with innovation challenges 
     related to value exploitation from geoscience data, facilitating sustainable solutions, and contributing to climate awareness.
     </p>
 </div>
