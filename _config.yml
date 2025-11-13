@@ -18,4 +18,4 @@ highlighter: rouge
 # http://jch.penibelst.de/
 compress_html:
   blanklines: true
-theme: jekyll-theme-merlot
+theme: Merlot # jekyll-theme-merlot
